@@ -1,0 +1,11 @@
+Introduction to File Handling 
+File handling allows web applications to interact with files on the server. This is essential for tasks like 
+storing user data, logging events, and managing configuration settings. Without file handling, web 
+applications would rely solely on databases, which might not be practical for all types of data storage. 
+Key reasons for file handling include:
+ Data persistence, where files store information like user preferences between sessions
+ Logging, which helps web applications track user actions, errors, and events for debugging and 
+monitoring 
+ Configuration management, where settings are saved in files for flexibility and easy customization 
+ Content management, enabling websites with dynamic content, such as blogs or news sites, to store 
+and serve content efficiently
